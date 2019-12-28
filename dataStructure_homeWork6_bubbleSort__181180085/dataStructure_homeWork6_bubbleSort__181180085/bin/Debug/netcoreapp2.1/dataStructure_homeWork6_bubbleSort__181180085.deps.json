@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "dataStructure_homeWork6_bubbleSort__181180085/1.0.0": {
+        "runtime": {
+          "dataStructure_homeWork6_bubbleSort__181180085.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dataStructure_homeWork6_bubbleSort__181180085/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

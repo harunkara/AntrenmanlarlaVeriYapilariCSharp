@@ -1,0 +1,20 @@
+C:\Users\Computer\Desktop\dataStructures-homeWork7-binaryTrees-181180085\dataStructures-homeWork7-binaryTrees-181180085\bin\Debug\dataStructures-homeWork7-binaryTrees-181180085.exe.config
+C:\Users\Computer\Desktop\dataStructures-homeWork7-binaryTrees-181180085\dataStructures-homeWork7-binaryTrees-181180085\bin\Debug\dataStructures-homeWork7-binaryTrees-181180085.exe
+C:\Users\Computer\Desktop\dataStructures-homeWork7-binaryTrees-181180085\dataStructures-homeWork7-binaryTrees-181180085\bin\Debug\dataStructures-homeWork7-binaryTrees-181180085.pdb
+C:\Users\Computer\Desktop\dataStructures-homeWork7-binaryTrees-181180085\dataStructures-homeWork7-binaryTrees-181180085\obj\Debug\dataStructures-homeWork7-binaryTrees-181180085.csprojAssemblyReference.cache
+C:\Users\Computer\Desktop\dataStructures-homeWork7-binaryTrees-181180085\dataStructures-homeWork7-binaryTrees-181180085\obj\Debug\dataStructures_homeWork7_binaryTrees_181180085.Form1.resources
+C:\Users\Computer\Desktop\dataStructures-homeWork7-binaryTrees-181180085\dataStructures-homeWork7-binaryTrees-181180085\obj\Debug\dataStructures_homeWork7_binaryTrees_181180085.Properties.Resources.resources
+C:\Users\Computer\Desktop\dataStructures-homeWork7-binaryTrees-181180085\dataStructures-homeWork7-binaryTrees-181180085\obj\Debug\dataStructures-homeWork7-binaryTrees-181180085.csproj.GenerateResource.cache
+C:\Users\Computer\Desktop\dataStructures-homeWork7-binaryTrees-181180085\dataStructures-homeWork7-binaryTrees-181180085\obj\Debug\dataStructures-homeWork7-binaryTrees-181180085.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\dataStructures-homeWork7-binaryTrees-181180085\dataStructures-homeWork7-binaryTrees-181180085\obj\Debug\dataStructures-homeWork7-binaryTrees-181180085.exe
+C:\Users\Computer\Desktop\dataStructures-homeWork7-binaryTrees-181180085\dataStructures-homeWork7-binaryTrees-181180085\obj\Debug\dataStructures-homeWork7-binaryTrees-181180085.pdb
+C:\Users\Computer\Desktop\Data Structures Homeworks\dataStructures-homeWork7-binaryTrees-181180085\dataStructures-homeWork7-binaryTrees-181180085\bin\Debug\dataStructures-homeWork7-binaryTrees-181180085.exe.config
+C:\Users\Computer\Desktop\Data Structures Homeworks\dataStructures-homeWork7-binaryTrees-181180085\dataStructures-homeWork7-binaryTrees-181180085\bin\Debug\dataStructures-homeWork7-binaryTrees-181180085.exe
+C:\Users\Computer\Desktop\Data Structures Homeworks\dataStructures-homeWork7-binaryTrees-181180085\dataStructures-homeWork7-binaryTrees-181180085\bin\Debug\dataStructures-homeWork7-binaryTrees-181180085.pdb
+C:\Users\Computer\Desktop\Data Structures Homeworks\dataStructures-homeWork7-binaryTrees-181180085\dataStructures-homeWork7-binaryTrees-181180085\obj\Debug\dataStructures-homeWork7-binaryTrees-181180085.csprojAssemblyReference.cache
+C:\Users\Computer\Desktop\Data Structures Homeworks\dataStructures-homeWork7-binaryTrees-181180085\dataStructures-homeWork7-binaryTrees-181180085\obj\Debug\dataStructures_homeWork7_binaryTrees_181180085.Form1.resources
+C:\Users\Computer\Desktop\Data Structures Homeworks\dataStructures-homeWork7-binaryTrees-181180085\dataStructures-homeWork7-binaryTrees-181180085\obj\Debug\dataStructures_homeWork7_binaryTrees_181180085.Properties.Resources.resources
+C:\Users\Computer\Desktop\Data Structures Homeworks\dataStructures-homeWork7-binaryTrees-181180085\dataStructures-homeWork7-binaryTrees-181180085\obj\Debug\dataStructures-homeWork7-binaryTrees-181180085.csproj.GenerateResource.cache
+C:\Users\Computer\Desktop\Data Structures Homeworks\dataStructures-homeWork7-binaryTrees-181180085\dataStructures-homeWork7-binaryTrees-181180085\obj\Debug\dataStructures-homeWork7-binaryTrees-181180085.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\Data Structures Homeworks\dataStructures-homeWork7-binaryTrees-181180085\dataStructures-homeWork7-binaryTrees-181180085\obj\Debug\dataStructures-homeWork7-binaryTrees-181180085.exe
+C:\Users\Computer\Desktop\Data Structures Homeworks\dataStructures-homeWork7-binaryTrees-181180085\dataStructures-homeWork7-binaryTrees-181180085\obj\Debug\dataStructures-homeWork7-binaryTrees-181180085.pdb

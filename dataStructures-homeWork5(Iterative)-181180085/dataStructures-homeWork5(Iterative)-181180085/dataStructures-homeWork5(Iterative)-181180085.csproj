@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>dataStructures_homeWork5_Iterative__181180085</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+C:\Users\Computer\Desktop\dataStructures-homeWork4-181180085\dataStructures-homeWork4-181180085\bin\Debug\dataStructures-homeWork4-181180085.exe.config
+C:\Users\Computer\Desktop\dataStructures-homeWork4-181180085\dataStructures-homeWork4-181180085\bin\Debug\dataStructures-homeWork4-181180085.exe
+C:\Users\Computer\Desktop\dataStructures-homeWork4-181180085\dataStructures-homeWork4-181180085\bin\Debug\dataStructures-homeWork4-181180085.pdb
+C:\Users\Computer\Desktop\dataStructures-homeWork4-181180085\dataStructures-homeWork4-181180085\obj\Debug\dataStructures-homeWork4-181180085.csprojAssemblyReference.cache
+C:\Users\Computer\Desktop\dataStructures-homeWork4-181180085\dataStructures-homeWork4-181180085\obj\Debug\dataStructures_homeWork4_181180085.Form1.resources
+C:\Users\Computer\Desktop\dataStructures-homeWork4-181180085\dataStructures-homeWork4-181180085\obj\Debug\dataStructures_homeWork4_181180085.Properties.Resources.resources
+C:\Users\Computer\Desktop\dataStructures-homeWork4-181180085\dataStructures-homeWork4-181180085\obj\Debug\dataStructures-homeWork4-181180085.csproj.GenerateResource.cache
+C:\Users\Computer\Desktop\dataStructures-homeWork4-181180085\dataStructures-homeWork4-181180085\obj\Debug\dataStructures-homeWork4-181180085.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\dataStructures-homeWork4-181180085\dataStructures-homeWork4-181180085\obj\Debug\dataStructures-homeWork4-181180085.exe
+C:\Users\Computer\Desktop\dataStructures-homeWork4-181180085\dataStructures-homeWork4-181180085\obj\Debug\dataStructures-homeWork4-181180085.pdb
